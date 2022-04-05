@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanJar96
-- 👀 I’m interested in data science and it's applications to commercializing structural problem solutions!
-- 🌱 I’m currently learning data science / data engineering.
-- 💞️ I’m looking to collaborate on a lot of things.
+- 👀 I’m interested in data science!
+- 🌱 I’m currently learning data science @ [The Barcelona School of Economics](https://bse.eu/study/masters-programs/data-science-methodology/current-year)
 - 📫 How to reach me dante.jarhos@bse.eu
 
 <!---
