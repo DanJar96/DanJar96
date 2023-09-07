@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanJar96
-- 🌱 I’m currently expanding on what I've learned in data science @ [The Barcelona School of Economics](https://bse.eu/study/masters-programs/data-science-methodology/current-year)
+- 🌱 I’m currently working as a BI Developer @ Fiksuruoka Foodello!
 - 📫 How to reach me dante.jarhos@bse.eu
 
 <!---
